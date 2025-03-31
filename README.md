@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mike</h1>
-<h3 align="center">A small Java Script developer that is always interested in learning something new about coding</h3>
+<h3 align="center">A small german Java Script developer that is always interested in learning something new about coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikederechte&label=Profile%20views&color=0e75b6&style=flat" alt="mikederechte" /> </p>
 
